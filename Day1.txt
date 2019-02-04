@@ -1,0 +1,97 @@
+1)What is Selenium
+2)History of Selenium
+3)Selenium's tools Suite
+     Selenium IDE
+     Selenium RC
+     Selenium WebDriver
+     Selenium Grid
+----------------------------------------------
+
+1)What is Selenium ?
+ 	Selenium Is suite of Software Tools to automate the Web Browsers.
+	
+	It is an OpenSource Software mainly used for Funtional And Regression Test Automation.
+	https://www.seleniumhq.org/download/
+	
+	Selnium Supports Various Operating Systems.
+	Ms Windows
+	Linux
+	Mac
+	iOS
+
+	Supports Various Browsers.
+	Google Chrome
+	Mozilla Firefox
+	IE
+	Safari
+	OPera Etc.......
+
+	Note:Selenium IDE supports Only Mozila Firefox Browsers.
+	
+	Selenium supports various programming languages
+	
+	Java
+	C#
+	python 
+	ruby
+	php
+
+-------------------------------------------------------------------------------------------------------------
+
+2)History of Selenium ?
+
+                   Selenium first came into life in 2004 json hugins.
+		   In 2006 , Selenium WebDriver was lauched at Google.
+                   In 2008, the whole selenium team decided to merge selenium webdriver with selenium RC in order to form more powerful tool called Selenium 2.0
+                   
+                  Selenium 1
+                  
+			Selenium IDE + Selenium RC + Selenium Grid
+          
+                 Selenium 2
+				
+			Selenium IDE + Selenium RC + Selenium WebDrvider + Selenium Grid 
+
+------------------------------------------------------------------------------------------------------------------
+
+3)Selenium's tools Suite?
+
+     i) Selenium IDE
+         
+	It is Firefox browser plugin, used to create and excute Test cases.
+        
+	Selenium IDE Features:
+		
+		> Create Test Cases,Test Suites(We can record test cases or type test steps using elements locators and selenese commands)
+		> Edit tes cases
+		> Excute Test Cases
+		> Debug Test Cases
+		> Enhance the Test Cases
+		> Export Test Cases to ther formats(JAva , ruby , Html etc)
+		
+		Note:  Selenium IDE test case deafult format os HTML.
+
+	-------------------------------------------------------------------------------------------------------------------------------------------
+
+	Drawbacks of Selenium IDE
+		
+		> It supports MOzilla Firefox Browsers Only
+		> ITs doesnt Supoprt programing logics / features to enhance test cases.
+		> It doesnt support Data Driven Testing.
+		> It is not suitable for complex test case design.
+		> NO centralized maintaince of objects / Elemets.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+	
